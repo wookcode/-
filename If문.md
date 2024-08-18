@@ -1,3 +1,6 @@
+# IF문
+
+```java
 public static void main(String[] args) {
         int age = 14;
 
@@ -18,3 +21,5 @@ public static void main(String[] args) {
         }
     }
 }
+
+```
